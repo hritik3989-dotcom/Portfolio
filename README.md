@@ -22,6 +22,7 @@ My goal is to become a skilled software developer capable of building scalable a
 ---
 
 ### Let’s Connect  
-- **Email:** hritik3989@gmail.com]   
+- **Email:** [hritik3989@gmail.com]   
 - **LeetCode:** [https://leetcode.com/u/AmanSharma_06/]  
-- *HackerRank:** [https://www.hackerrank.com/profile/hritik3989]
+- **HackerRank:** [https://www.hackerrank.com/profile/hritik3989]
+- **Project:** [https://github.com/hritik3989-dotcom/House_Price_Prediction]
